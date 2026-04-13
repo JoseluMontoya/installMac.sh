@@ -25,6 +25,7 @@ CASKS=(
   alacritty
   gimp
   karabiner-elements
+  sf-symbols
 )
 
 # Homebrew Formulae: Command line tools installed via Homebrew.
