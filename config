@@ -5,6 +5,7 @@
 # Homebrew Casks: Applications installed via Homebrew Cask.
 # These are GUI applications available through Homebrew.
 CASKS=(
+  1password
   stats
   #microsoft-teams
   #microsoft-word
@@ -42,6 +43,7 @@ FORMULAE=(
   tmux
   wget
   neovim
+  stow
 )
 
 
