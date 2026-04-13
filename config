@@ -23,6 +23,7 @@ CASKS=(
   linearmouse
   alacritty
   gimp
+  karabiner-elements
 )
 
 # Homebrew Formulae: Command line tools installed via Homebrew.
