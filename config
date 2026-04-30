@@ -35,6 +35,7 @@ FORMULAE=(
   starship
   curl
   fd
+  ripgrep
   ffmpeg
   yt-dlp
   fzf
